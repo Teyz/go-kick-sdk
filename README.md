@@ -1,6 +1,6 @@
 # go-kick-sdk
 
-> Un SDK non-officiel pour interagir avec l'API publique de Kick.com, écrit en Go.
+> An unofficial Go SDK to interact with Kick.com's public API.
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/Teyz/go-kick-sdk.svg)](https://pkg.go.dev/github.com/Teyz/go-kick-sdk)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Teyz/go-kick-sdk)](https://goreportcard.com/report/github.com/Teyz/go-kick-sdk)
@@ -16,7 +16,7 @@ go get github.com/Teyz/go-kick-sdk
 
 ---
 
-## 🚀 Exemple d'utilisation
+## 🚀 Usage Example
 
 ```go
 package main
@@ -44,34 +44,34 @@ func main() {
 
 ---
 
-## 🧰 Fonctionnalités
+## 🧰 Features
 
-- ✅ Récupération de l'utilisateur connecté
-- ✅ Récupération d'utilisateur par nom d'utilisateur
+- ✅ OAuth
+- ✅ Users
 
 ---
 
 ## 📚 Documentation
 
-La documentation complète est disponible sur [pkg.go.dev](https://pkg.go.dev/github.com/Teyz/go-kick-sdk).
+Full documentation is available on [pkg.go.dev](https://pkg.go.dev/github.com/Teyz/go-kick-sdk).
 
 ---
 
 ## ✅ TODO
 
-- 📺 Channels
-- 💬 Gestion du chat en temps réel
-- 📺 Abonnements, followers, etc.
-- 🧪 Tests unitaires
+- 🔄 Channels
+- 💬 Real-time chat support
+- 📺 Subscriptions, followers, etc.
+- 🧪 Unit tests
 
 ---
 
-## 🤝 Contribuer
+## 🤝 Contributing
 
-Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une **issue** ou une **pull request**.
+Contributions are welcome! Feel free to open an **issue** or a **pull request**.
 
 ---
 
-## 📄 Licence
+## 📄 License
 
-Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
